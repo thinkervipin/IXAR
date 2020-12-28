@@ -73,7 +73,6 @@ def simplest_cb(img, percent):
 
 if __name__ == '__main__':
     #img = cv2.imread(sys.argv[1])
-	#'/media/dheeraj/9A26F0CB26F0AA01/WORK/github_repo/Dehazing/haze-videos/Whale.mov'
     #\Users\VIPIN\Documents\video\Image_vedio_Dehazing
     cap=cv2.VideoCapture('/Users/VIPIN/Documents/video/Image_vedio_Dehazing/haze-videos/dolphin.mp4')
     #img = cv2.imread('/Users/VIPIN/Documents/video/Image-and-Video-Dehazing-master/testpic/0001.jpg')
